@@ -7,7 +7,7 @@ poll,input_register,108,1,BE_BE,
 ref,edpbox_voltage,108,uint16,,0.1
 poll,input_register,121,1,BE_BE
 ref,edpbox_activepower,121,uint16,
-poll,input_register,38,1,BE_BE
+poll,input_register,38,1,BE_BE,
 ref,edpbox_tarifa_vazio,38,uint16,,0.001
 poll,input_register,123,1,BE_BE,
 ref,edpbox_powerfactor,123,uint16,,0.001
